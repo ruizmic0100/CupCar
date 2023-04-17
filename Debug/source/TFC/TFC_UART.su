@@ -1,0 +1,7 @@
+../source/TFC/TFC_UART.c:13:6:TFC_InitUARTs	8	static
+../source/TFC/TFC_UART.c:38:6:TFC_UART_Process	8	static
+../source/TFC/TFC_UART.c:45:6:UART0_IRQHandler	16	static
+../source/TFC/TFC_UART.c:70:6:uart0_init	64	static
+../source/TFC/TFC_UART.c:187:6:uart_getchar	16	static
+../source/TFC/TFC_UART.c:203:6:uart_putchar	16	static
+../source/TFC/TFC_UART.c:223:5:uart_getchar_present	16	static

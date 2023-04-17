@@ -1,0 +1,12 @@
+../source/pid.c:6:6:InitPID	16	static
+../source/pid.c:18:6:SetPIDSetpoint	16	static
+../source/pid.c:26:6:SetPIDLimits	24	static
+../source/pid.c:35:6:SetPIDGain	24	static
+../source/pid.c:45:7:GetPIDOutput	40	static
+../source/pid.c:85:7:InitPIDI	16	static
+../source/pid.c:102:6:SetPIDISetpoint	16	static
+../source/pid.c:111:6:SetPIDIGainFactors	24	static
+../source/pid.c:118:6:SetPIDIFeedbackGain	16	static
+../source/pid.c:123:6:SetPIDILimits	24	static
+../source/pid.c:132:6:SetPIDIGain	24	static
+../source/pid.c:142:5:GetPIDIOutput	40	static

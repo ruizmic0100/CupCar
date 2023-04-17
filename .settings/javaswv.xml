@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JavaSwv>
+<dataWatch accessType="READ" expression="i" format="0x%08x" traceType="VALUE">
+<expression accessType="READ" expression="i" format="0x%08x" traceType="VALUE"/>
+</dataWatch>
+</JavaSwv>

@@ -1,0 +1,3 @@
+../source/tpm.c:16:6:FTM2_IRQHandler	16	static
+../source/tpm.c:70:6:GetTime	40	static
+../source/tpm.c:96:6:TPM2_Init	8	static

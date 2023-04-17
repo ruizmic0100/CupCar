@@ -1,0 +1,7 @@
+../source/TFC/TFC_Queue.c:5:6:InitByteQueue	32	static
+../source/TFC/TFC_Queue.c:18:10:BytesInQueue	16	static
+../source/TFC/TFC_Queue.c:28:9:ByteEnqueue	16	static
+../source/TFC/TFC_Queue.c:42:9:ByteArrayEnqueue	40	static
+../source/TFC/TFC_Queue.c:51:9:Qprintf	28	static
+../source/TFC/TFC_Queue.c:63:9:ByteDequeue	16	static
+../source/TFC/TFC_Queue.c:79:9:ForcedByteDequeue	24	static

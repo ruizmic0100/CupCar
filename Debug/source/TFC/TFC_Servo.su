@@ -1,0 +1,4 @@
+../source/TFC/TFC_Servo.c:13:6:TFC_SetServo	16	static
+../source/TFC/TFC_Servo.c:20:6:TFC_SetServoDutyCycle	24	static
+../source/TFC/TFC_Servo.c:38:6:TPM1_IRQHandler	8	static
+../source/TFC/TFC_Servo.c:49:6:TFC_InitServos	8	static

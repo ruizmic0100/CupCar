@@ -1,0 +1,2 @@
+../source/TFC/TFC_LineScanCamera.c:14:6:TFC_InitLineScanCamera	8	static
+../source/TFC/TFC_LineScanCamera.c:40:6:TFC_SetLineScanExposureTime	32	static

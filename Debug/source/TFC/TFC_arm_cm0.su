@@ -1,0 +1,6 @@
+../source/TFC/TFC_arm_cm0.c:4:6:stop	8	static
+../source/TFC/TFC_arm_cm0.c:30:6:wait	8	static
+../source/TFC/TFC_arm_cm0.c:54:6:write_vtor	16	static
+../source/TFC/TFC_arm_cm0.c:72:6:enable_irq	16	static
+../source/TFC/TFC_arm_cm0.c:103:6:disable_irq	16	static
+../source/TFC/TFC_arm_cm0.c:133:6:set_irq_priority	24	static

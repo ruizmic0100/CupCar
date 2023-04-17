@@ -1,0 +1,9 @@
+../source/TFC/TFC_ADC.c:269:15:ADC_Cal	24	static
+../source/TFC/TFC_ADC.c:336:6:ADC_Config_Alt	16	static
+../source/TFC/TFC_ADC.c:350:6:ADC_Read_Cal	16	static
+../source/TFC/TFC_ADC.c:374:6:InitADC0	24	static
+../source/TFC/TFC_ADC.c:444:6:TFC_InitADCs	8	static
+../source/TFC/TFC_ADC.c:477:6:PIT_IRQHandler	8	static
+../source/TFC/TFC_ADC.c:491:6:ADC0_IRQHandler	16	static
+../source/TFC/TFC_ADC.c:613:7:TFC_ReadPot	16	static
+../source/TFC/TFC_ADC.c:623:7:TFC_ReadBatteryVoltage	8	static
